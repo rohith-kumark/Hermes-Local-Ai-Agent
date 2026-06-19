@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.log
+
+# Local runtime/private data
+.rag/
+.memory/
+.trash/
+
+# AI model files
+*.gguf
+*.bin
+*.safetensors
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/

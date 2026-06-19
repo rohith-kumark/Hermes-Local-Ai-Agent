@@ -1,0 +1,8 @@
+openai
+rich
+mcp[cli]
+chromadb
+sentence-transformers
+pypdf
+python-docx
+torch
