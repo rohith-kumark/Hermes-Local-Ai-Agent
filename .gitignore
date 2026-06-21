@@ -1,42 +1,9 @@
 .venv/
 __pycache__/
 *.pyc
-.env
-.env.*
+logs/
 *.log
-
-# Local runtime/private data
-.rag/
-.memory/
-.trash/
-
-# AI model files
-*.gguf
-*.bin
-*.safetensors
-
-# OS/editor
-.DS_Store
-.vscode/
-.idea/
-
-# Private local files
 .env
-.env.*
-local_config.py
-config.local.json
-
-# Local workspace/root folders
-AI-Workspace/
-.rag/
-.memory/
-.trash/
-
-# Local AI model files
 *.gguf
-*.bin
-*.safetensors
-*.pt
-*.pth
-*.onnx
 models/
+.DS_Store
